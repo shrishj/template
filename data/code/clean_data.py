@@ -10,7 +10,12 @@ def main():
     df.to_csv('output/data_cleaned.csv', index = False)
 
 def plot_data(df):
-    plt.hist(df['chips_sold'])
+    fig, ax = plt.subplots()
+    ax.hist(df['chips_sold'])
+    
+    ax.yaxis.set_major_formatter(plt.FuncFormatter(lambda y, _: f'{y / len(df) * 100:.0f}%'))
+    ax.set_ylabel('Percentage')
+
     plt.savefig('output/chips_sold.pdf')
 
 def clean_data(df):
