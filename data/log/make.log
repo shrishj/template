@@ -1,13 +1,10 @@
 --------------------------------------------------------------------------------
-Makelog started: 2023-10-25 14:42:51
+Makelog started: 2023-10-25 15:52:49
 Working directory: /Users/shrishjanarthanan/Desktop/SIEPR/template/data
 --------------------------------------------------------------------------------
 Input links successfully created!
 External links successfully created!
 Source logs successfully written!
-WARNING! The following target files have been modified according to git status:
-/Users/shrishjanarthanan/Desktop/SIEPR/template/raw/chips.csv
-/Users/shrishjanarthanan/Desktop/SIEPR/template/raw/tv.csv
 Version logs successfully written!
 Executing command: `python  "/Users/shrishjanarthanan/Desktop/SIEPR/template/data/code/merge_data.py" `
 Executing command: `python  "/Users/shrishjanarthanan/Desktop/SIEPR/template/data/code/clean_data.py" `
@@ -19,6 +16,6 @@ See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stab
 
 Output logs successfully written!
 --------------------------------------------------------------------------------
-Makelog ended: 2023-10-25 14:42:56
+Makelog ended: 2023-10-25 15:52:54
 Working directory: /Users/shrishjanarthanan/Desktop/SIEPR/template/data
 --------------------------------------------------------------------------------
