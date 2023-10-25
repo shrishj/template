@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------------
-Makelog started: 2023-10-25 15:53:00
+Makelog started: 2023-10-25 16:54:03
 Working directory: /Users/shrishjanarthanan/Desktop/SIEPR/template/paper_slides
 --------------------------------------------------------------------------------
 Input copies successfully created!
@@ -7,6 +7,7 @@ External copies successfully created!
 Source logs successfully written!
 WARNING! The following target files have been modified according to git status:
 /Users/shrishjanarthanan/Desktop/SIEPR/template/data/output/chips_sold.pdf
+/Users/shrishjanarthanan/Desktop/SIEPR/template/analysis/output/regression_subset.csv
 Version logs successfully written!
 Executing command: `lyx -e pdf2 "/Users/shrishjanarthanan/Desktop/SIEPR/template/paper_slides/code/paper.lyx"`
 This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex)
@@ -52,6 +53,6 @@ L3 programming layer <2022-02-24>
 
 Output logs successfully written!
 --------------------------------------------------------------------------------
-Makelog ended: 2023-10-25 15:53:09
+Makelog ended: 2023-10-25 16:54:11
 Working directory: /Users/shrishjanarthanan/Desktop/SIEPR/template/paper_slides
 --------------------------------------------------------------------------------

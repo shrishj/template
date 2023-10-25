@@ -17,7 +17,7 @@ def main():
         formatted.to_csv(f, sep = '\t', index = False, header = False)
 
     with open('output/regression_subset.csv', 'w') as f:
-        f.write('<tab:regression>' + '\n')
+        f.write('<tab:regression-subset>' + '\n')
         formatted_subset.to_csv(f, sep = '\t', index = False, header = False) 
 
 def import_data():
@@ -42,7 +42,7 @@ def run_regression_subset(df):
     fit = model.fit()
 
     return fit   
-      
+
 def format_model(fit):
     formatted = pd.DataFrame({'coef'     : fit.params, 
                               'std_error': fit.std_errors, 

@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------------
-Makelog started: 2023-10-25 15:52:55
+Makelog started: 2023-10-25 16:53:57
 Working directory: /Users/shrishjanarthanan/Desktop/SIEPR/template/analysis
 --------------------------------------------------------------------------------
 Input links successfully created!
@@ -16,6 +16,6 @@ Inputs contain missing values. Dropping rows with missing observations.
 
 Output logs successfully written!
 --------------------------------------------------------------------------------
-Makelog ended: 2023-10-25 15:53:00
+Makelog ended: 2023-10-25 16:54:02
 Working directory: /Users/shrishjanarthanan/Desktop/SIEPR/template/analysis
 --------------------------------------------------------------------------------
