@@ -1,3 +1,4 @@
 destination | source
 input/regression.csv | /Users/shrishjanarthanan/Desktop/SIEPR/template/analysis/output/regression.csv
+input/regression_subset.csv | /Users/shrishjanarthanan/Desktop/SIEPR/template/analysis/output/regression_subset.csv
 input/chips_sold.pdf | /Users/shrishjanarthanan/Desktop/SIEPR/template/data/output/chips_sold.pdf
